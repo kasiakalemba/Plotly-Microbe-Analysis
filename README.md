@@ -10,6 +10,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Final Product: 
 https://kasiakalemba.github.io/Plotly-Basic-Skills/
 
+![](images/page.png)
+
 ## Skills Displayed: 
 * Using Plotly to create basic charts, including bar charts and line charts
 * Using Plotly's `layout` object to customize the appearance of their charts
@@ -21,7 +23,7 @@ https://kasiakalemba.github.io/Plotly-Basic-Skills/
 * Creating advanced dynamic charts, such as candlestick charts
 * Creating and deploy custom dashboards.
 
-## Plotly
+## Plotly Task 
 * Used the D3 library to read in samples.json
 * Created a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual
 * Created a bubble chart that displays each sample
