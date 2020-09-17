@@ -1,7 +1,7 @@
-# Plotly - Basic Skills Demonstration
+# Plotly/Javascript Skills
 
 ## Summary: 
-This challenge's task was to build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+This challenge's task was to build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. It was created with data from a json file into a Javascript file using D3.js. D3 and Plotly charts are connected to the webpage which is styled with CSS and Bootstrap.
 
 http://robdunnlab.com/projects/belly-button-biodiversity/
 
