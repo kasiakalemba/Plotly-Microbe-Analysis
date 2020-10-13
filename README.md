@@ -11,9 +11,9 @@ http://robdunnlab.com/projects/belly-button-biodiversity/
 ![](images/page.png)
 
 ## Technologies
-Python: Flask, Flask-SQLAlchemy, Jinja2, numpy, pandas, SQLAlchemy 
-Javascript: D3, Plotly 
-HTML, CSS, Boostrap 
+* Python: Flask, Flask-SQLAlchemy, Jinja2, numpy, pandas, SQLAlchemy 
+* Javascript: D3, Plotly 
+* HTML, CSS, Boostrap 
 
 ## Usage
 * Pip install requirements.txt
